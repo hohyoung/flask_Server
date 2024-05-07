@@ -1,0 +1,12 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 453-438-456
+test1 - INFO - Extracted Text: 
+urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): naveropenapi.apigw.ntruss.com:443
+urllib3.connectionpool - DEBUG - https://naveropenapi.awerkzeug - INFO -  * Restarting with stat
+is/v1/analyze HTTP/1.1" 400 None
+werkzeug - INFO - 192.168.1.103 - - [24/Apr/2024 12:23:59] "[31m[1mGET /000050 HTTP/1.1[0m" 400 -
+test1 - INFO - Extracted Text: 
+urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): naveropenapi.apigw.ntruss.com:443
+urllib3.connectionpool - DEBUG - https://naveropenapi.apigw.ntruss.com:443 "POST /sentiment-analysis/v1/analyze HTTP/1.1" 400 None
+werkzeug - INFO - 192.168.1.103 - - [24/Apr/2024 12:23:59] "[31m[1mGET /favicon.ico HTTP/1.1[0m" 400 -
+werkzeug - INFO -  * Detected change in 'C:\\Users\\anho2\\PycharmProjects\\pythonProject1\\Test\\test1.py', reloading
