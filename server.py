@@ -264,7 +264,7 @@ def analysis(title):
     news_sentiments = count_sentiments(news_results)
     investing_sentiments = count_sentiments(investing_results)
 
-    if total_score < 20:
+    if total_score < 25:
         total_sentiment = 'negative'
     elif total_score < 50:
         total_sentiment = 'neutral'
